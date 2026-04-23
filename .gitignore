@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large files
+*.mp4
+*.pt
+
+# VS Code settings
+.vscode/
